@@ -14,7 +14,7 @@ this repo contains 3 guided projects offered by freeCodeCamp
 
 ## API Basics and Course Configuration
 
-### 3. Project 1: Equal-Weight S&P 500 Screener
+### Project 1: Equal-Weight S&P 500 Screener
     - an important characteristic of the S&P 500 is the market capitalization weighting
     - larger companies have a larger weight in the index but for the project, our version will have the same weighting
     - the benefit of greater diversification across sectors reduces the risk of downturns of large sectors or underperformance of  
